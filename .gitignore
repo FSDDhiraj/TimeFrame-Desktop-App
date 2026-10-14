@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+
+# Vite build output
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Rust build artifacts
+src-tauri/target/
+
+# Local signing keys and certificates
+*.key
+*.key.pub
+*.pem
+*.p12
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
