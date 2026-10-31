@@ -1,0 +1,11 @@
+{
+"version": "2.0.0",
+"notes": "TimeFrame 2.0.0 - New release.",
+"pub_date": "2026-10-31T00:00:00Z",
+"platforms": {
+"windows-x86_64": {
+"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcVpUQTVRRjZ1Y1NBaWx4MEx0NGJZZk50MmhiYlJMOFovMVJhVTNTdG9sN2ZjRkNtN2d1QVhhc1NTQzhVam5FWnNGWmpsRUZyTFhRbVcyaUpwMW9Td3RUY0xBZWVsZFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNDU4NjQ5CWZpbGU6VGltZUZyYW1lXzIuMC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjoyLjAuMAovcFFRNXp6WUtwQnZ6TUw3TUYrZExsbElDaUZzMzd4TXJjOWRwdURLM0xUbFJ1TGNYUVhtdnQ0Z0FLRGZHT0VpaFJvUk5PclpGbGxTRmJmS0laeFlDQT09Cg==",
+"url": "https://github.com/FSDDhiraj/TimeFrame-Desktop-App/releases/download/v2.0.0/TimeFrame_2.0.0_x64-setup.exe"
+}
+}
+}
