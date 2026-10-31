@@ -1,7 +1,7 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
   "productName": "TimeFrame",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "identifier": "com.timeframe.dev",
   "build": {
     "frontendDist": "../dist",
@@ -33,6 +33,7 @@
       "icons/icon.icns",
       "icons/icon.ico"
     ],
+    "createUpdaterArtifacts": true,
     "android": {
       "debugApplicationIdSuffix": ".debug"
     }
@@ -40,7 +41,7 @@
   "plugins": {
     "updater": {
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDcxQUU1RTQwMzkzMDY1MkEKUldRcVpUQTVRRjZ1Y2RyZzlVdDdQZ1JqU05oRGExclUwTUFpWkxicERpR1ZXVW1zeHMrVE5KSisK",
-      "endpoints": []
+      "endpoints": ["https://github.com/FSDDhiraj/TimeFrame-Desktop-App/releases/latest/download/latest.json"]
     }
   }
 }
